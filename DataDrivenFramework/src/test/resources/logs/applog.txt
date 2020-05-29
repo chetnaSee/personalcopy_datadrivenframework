@@ -1,0 +1,6 @@
+INFO    2020-05-29 12:52:24,873 [main] base.BaseTest  - Config file loaded !!!
+INFO    2020-05-29 12:52:24,877 [main] base.BaseTest  - OR file loaded !!!
+INFO    2020-05-29 12:52:27,504 [main] base.BaseTest  - Chrome Launched
+INFO    2020-05-29 12:52:28,945 [main] base.BaseTest  - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2020-05-29 12:52:29,359 [main] base.BaseTest  - DB Connection established !!!
+INFO    2020-05-29 12:52:39,914 [main] base.BaseTest  - Test Execution Completed !!!
